@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /etc/passwd | sort -k5 | less 
+ls -a | find . -type d -empty -print -type f -empty -print 
