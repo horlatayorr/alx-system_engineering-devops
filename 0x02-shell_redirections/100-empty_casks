@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -ls -type f -empty -ls   
+ls -a | find . -type f,d -empty | cut -b 3-   
