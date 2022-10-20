@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort -k 5"
+ls -l /etc/passwd | sort -k 5"
