@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /etc/passwd | sort -k5 | less 
+cat /etc/passwd | grep "$find_user" | cut -d: -f6
