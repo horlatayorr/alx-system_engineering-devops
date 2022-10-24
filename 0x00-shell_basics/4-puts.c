@@ -5,7 +5,7 @@
  *
  * Puts- prints string
  * Return: Always Zero (success)
-*/
+ */
 
 int main(void)
 {
