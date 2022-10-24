@@ -3,7 +3,6 @@
 /**
  * main - Entry point
  *
- * Puts- prints string
  * Return: Always Zero (success)
  */
 
