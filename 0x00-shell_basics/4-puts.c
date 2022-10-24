@@ -1,9 +1,10 @@
 #include <stdio.h>
+
 /**
- *Entry -main
+ * main - Entry point
  *
- *Puts unction - prints string
- *Always returns zero - success
+ * Puts- prints string
+ * Return: Always Zero (success)
 */
 
 int main(void)
